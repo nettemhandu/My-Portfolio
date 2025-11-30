@@ -50,3 +50,9 @@ a {
     text-decoration: none;
     text-decoration-color: white;
 }
+
+a:hover {
+    color: grey;
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+}
