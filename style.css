@@ -95,5 +95,6 @@ a:hover {
 }
 
 .menu-links {
-    
+    position: absolute;
+    top: 100%;
 }
