@@ -86,3 +86,7 @@ a:hover {
     width: 30px;
     cursor: pointer;
 }
+
+.hamburger-icon span {
+    width: 100%;
+}
